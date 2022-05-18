@@ -4,12 +4,6 @@
  <p align="center">Get my github stats here!</p>
 </p>
 <p align="center">
-    <a href="https://github.com/ErosionYT/Easy-Gamemode">
-      <img alt="Issues" src="https://img.shields.io/github/issues/ErosionYT/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/ErosionYT/Easy-Gamemode">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/ErosionYT/github-readme-stats?color=0088ff" />
-    </a>
   <a href="https://discord.gg/EawuF4BPU7">
       <img alt="Discord" src="https://img.shields.io/discord/330850307607363585?logo=discord" />
     </a>
